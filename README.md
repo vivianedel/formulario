@@ -1,2 +1,2 @@
-# formularios
+# formulario
 Meu primeiro formulário.

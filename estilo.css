@@ -1,0 +1,65 @@
+.modelo1{ 
+    width: 500px;
+    height: 450px;
+    background-color: rgb(134, 80, 9);
+    padding: 20px 30px 20px 30px;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 12px;
+    font-family: Arial;
+    color: white;
+    margin: 0 auto;    
+}
+
+.titulo2{
+    font-size: 11px;
+}
+
+h1{
+    text-align: center;
+    padding: 0px 0px 10px 0px;
+    border-bottom: 3px solid black;
+}
+
+div{ 
+    margin: 0px 0px 20px;
+}
+
+.rotulos{
+    width: 20%;
+    padding-right: 10px;
+    margin-top: 10px;
+    float: left;
+    text-align: right;
+    font-weight: bold;
+}
+
+.entrada{
+    width: 70%;
+    height: 30px;
+    background-color: rgb(223, 200, 151);
+    border: none;
+    padding: 5px 0px 5px 5px;
+    border-radius: 5px;
+    line-height: 15px;
+}
+
+#mensagem{
+    width: 70%;
+    height: 100px;
+    padding: 10px 10px 10px 0px;
+}
+
+.botao{
+    background-color: black;
+    border: none;
+    color: rgb(243, 241, 241);
+    padding: 10px 25px 10px 25px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.botao:hover{
+    color: rgb(3, 3, 3);
+    background-color: rgb(255, 254, 254);
+}
+
+
